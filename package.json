@@ -7,5 +7,4 @@
     "build": "astro build",
     "deploy": "gh-pages -d ./"
   }
-  
 }
